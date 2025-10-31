@@ -41,6 +41,6 @@ When I'm not working on numbers or optimizing systems, I'm exploring how to impr
 </p>
 
 <p align="center">
-  ![Music Badge](https://img.shields.io/badge/Music-Now%20Playing-blue?style=for-the-badge&logo=spotify&logoColor=white)
+  <img src="https://img.shields.io/badge/Music-Now%20Playing-blue?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
 </p>
 
