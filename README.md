@@ -1,15 +1,15 @@
-<h1 align="left">Hey there, I'm SudhanFromGithub! 👋</h1>
+<h1 align="left">Hey there, I'm Sharavana Sudhan Jeganathan! 👋</h1>
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/SudhanFromGithub/Essentials/main/assets/Sudhan_Logo_Design.png" />
 
 ---
 
-I'm a **CA Finalist** with a passion for **Excel** automation, **AHK scripting**, and **Python**. I specialize in **Windows customization** (currently using macOS) and love experimenting with the **Terminal**.
+I'm a **CA Finalist** with a passion for **Excel** automation, **AHK scripting**, **Python** and more. I specialize in **Windows customization** (currently exploring macOS) and love experimenting with the **Terminal**.
 
-🚀 **Current Focus**: Completing my CA and diving deeper into Excel projects. 📊  
-When I'm not working on numbers or optimizing systems, I'm exploring how to improve my workflow.
+🚀 **Current Focus**: Completing my SPOM (Self Paced Online Module) Exams. and Preparing for CA Final.
+When I'm not working on numbers or optimizing systems, I'm exploring how to improve my workflow and customizing operating system that I use.
 
-⚡ **Hobbies**: Tinkering with Windows, Excel automation, exploring **Apple Music**, and customizing my tech setups.
+⚡ **Hobbies**: Tinkering with Windows, Excel automation, Listening to **Apple Music**, and customizing my tech setups.
 
 ---
 
@@ -34,11 +34,11 @@ When I'm not working on numbers or optimizing systems, I'm exploring how to impr
 
 ---
 
-<p align="center">
-  📈 **Currently working on**: Excel Projects and Automation<br>
-  🛠️ **Tools I'm using**: AHK, Python, Excel<br>
-  🎶 **Music**: When I'm coding, Apple Music is my go-to playlist! 🎧
-</p>
+  📈 **Currently working on**: Excel Projects and Automation
+  🛠️ **Tools I'm using**: AHK, Python, Excel, Karabiner Elements and Obsidian
+  🎶 **Music**: When I'm lonely, Apple Music is my go-to playlist! 🎧
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Music-Now%20Playing-blue?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
