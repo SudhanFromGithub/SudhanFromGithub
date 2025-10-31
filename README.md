@@ -37,7 +37,10 @@ When I'm not working on numbers or optimizing systems, I'm exploring how to impr
 <p align="center">
   📈 **Currently working on**: Excel Projects and Automation<br>
   🛠️ **Tools I'm using**: AHK, Python, Excel<br>
-  🎶 **Music**: When I'm coding, Apple Music is my go-to playlist! 🎧<br>
+  🎶 **Music**: When I'm coding, Apple Music is my go-to playlist! 🎧
+</p>
+
+<p align="center">
   ![Music Badge](https://img.shields.io/badge/Music-Now%20Playing-blue?style=for-the-badge&logo=spotify&logoColor=white)
 </p>
 
