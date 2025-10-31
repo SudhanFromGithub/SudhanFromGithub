@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Sharavana Sudhan Jeganathan! 👋</h1>
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/SudhanFromGithub/Essentials/main/assets/Sudhan_Logo_Design.png" style="border-radius: 50%;" />
+<img align="right" height="180" width="180" src="https://raw.githubusercontent.com/SudhanFromGithub/Essentials/main/assets/Sudhan_Logo_Design.png" style="border-radius: 50%; object-fit: cover;" />
 
 ---
 
