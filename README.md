@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Sharavana Sudhan Jeganathan! 👋</h1>
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/SudhanFromGithub/Essentials/main/assets/Sudhan_Logo_Design.png" />
+<img align="right" height="180" src="https://raw.githubusercontent.com/SudhanFromGithub/Essentials/main/assets/Sudhan_Logo_Design.png" style="border-radius: 50%;" />
 
 ---
 
@@ -35,8 +35,10 @@ When I'm not working on numbers or optimizing systems, I'm exploring how to impr
 ---
 
   📈 **Currently working on**: Excel Projects and Automation
+
   🛠️ **Tools I'm using**: AHK, Python, Excel, Karabiner Elements and Obsidian
-  🎶 **Music**: When I'm lonely, Apple Music is my go-to playlist! 🎧
+
+  🎶 **Music**: When I'm lonely, Apple Music is my go-to Music Player! 🎧
 
 ---
 
