@@ -6,8 +6,7 @@
 
 I'm a **CA Finalist** with a passion for **Excel** automation, **AHK scripting**, **Python** and more. I specialize in **Windows customization** (currently exploring macOS) and love experimenting with the **Terminal**.
 
-🚀 **Current Focus**: Completing my SPOM (Self Paced Online Module) Exams. and Preparing for CA Final.
-When I'm not working on numbers or optimizing systems, I'm exploring how to improve my workflow and customizing operating system that I use.
+🚀 **Current Focus**: I'm exploring how to improve my workflow and customizing operating system that I use.
 
 ⚡ **Hobbies**: Tinkering with Windows, Excel automation, Listening to **Apple Music**, and customizing my tech setups.
 
@@ -38,7 +37,7 @@ When I'm not working on numbers or optimizing systems, I'm exploring how to impr
 
   🛠️ **Tools I'm using**: AHK, Python, Excel, Karabiner Elements and Obsidian
 
-  🎶 **Music**: When I'm lonely, Apple Music is my go-to Music Player! 🎧
+  🎶 **Music**: Apple Music is my go-to Music Player! 🎧
 
 ---
 
