@@ -29,12 +29,6 @@ I'm a **CA Finalist** with a passion for **Excel** automation, **AutoHotkey**, *
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SudhanFromGithub&theme=tokyonight&column=7&margin-w=5&no-frame=true" alt="GitHub Trophies" />
-</div>
-
----
-
 📈 **Currently working on**: Excel Projects and Automation
 
 🛠️ **Tools I'm using**: AutoHotkey, Python, Excel, Karabiner-Elements, Obsidian
