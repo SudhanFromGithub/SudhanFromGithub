@@ -1,107 +1,48 @@
-<h1 align="center">Hi, I'm Sharavana Sudhan Jeganathan 👋</h1>
+<h1 align="left">Hey there, I'm Sharavana Sudhan Jeganathan! 👋</h1>
 
-<p align="center">
-  <b>CA Finalist • Python Developer • Excel Automation Enthusiast</b><br>
-  Building tools that save time and make work simpler.
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SudhanFromGithub/Essentials/main/assets/Sudhan_Logo_Design.png" width="170" alt="Sharavana Sudhan Logo"/>
-</p>
+<img align="right" height="180" width="180" src="https://raw.githubusercontent.com/SudhanFromGithub/Essentials/main/assets/Sudhan_Logo_Design.png" alt="Sharavana Sudhan Logo" />
 
 ---
 
-## About Me
+I'm a **CA Finalist** with a passion for **Excel** automation, **AutoHotkey**, **Python**, and more. I specialize in **Windows customization** (currently exploring **macOS**) and love experimenting with the **Terminal**.
 
-- CA Finalist with a passion for solving real-world problems through automation.
-- Building desktop tools and scripts using **Python**.
-- Experienced with advanced **Excel** automation and reporting.
-- Enjoy customizing Windows, macOS and terminal workflows.
-- Always learning new technologies that improve productivity.
+🚀 **Current Focus**: Improving my workflow through automation and customizing every operating system I use.
+
+⚡ **Hobbies**: Tinkering with Windows, Excel automation, listening to **Apple Music**, and customizing my tech setups.
 
 ---
 
-## Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
-
-</p>
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudhanFromGithub&theme=tokyonight" alt="Profile Summary" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=SudhanFromGithub&theme=tokyonight&hide_border=true" height="130" alt="GitHub Streak" />
+</div>
 
 ---
 
-## GitHub Overview
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudhanFromGithub&theme=tokyonight"/>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SudhanFromGithub&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SudhanFromGithub&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=SudhanFromGithub&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudhanFromGithub&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" height="25" alt="Excel" />
+  <img src="https://img.shields.io/badge/AutoHotkey-8B0000?logo=autohotkey&logoColor=white&style=for-the-badge" height="25" alt="AutoHotkey" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="Python" />
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge" height="25" alt="macOS" />
+</div>
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SudhanFromGithub&theme=tokyonight&no-frame=true&column=4"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SudhanFromGithub&theme=tokyonight&column=7&margin-w=5&no-frame=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## Current Focus
+📈 **Currently working on**: Excel Projects and Automation
 
-- Building automation tools using Python
-- Web automation with Playwright & Selenium
-- Excel productivity utilities
-- Learning modern software engineering practices
-- Open-source projects
+🛠️ **Tools I'm using**: AutoHotkey, Python, Excel, Karabiner-Elements, Obsidian
 
----
-
-## Tools I Use
-
-- Python
-- Playwright
-- Selenium
-- Excel
-- AutoHotkey
-- Git
-- Neovim
-- Obsidian
-- Karabiner-Elements
-- macOS Terminal
-
----
-
-## Fun Facts
-
-- I enjoy making repetitive tasks disappear through automation.
-- Terminal-first whenever possible.
-- Apple Music is always playing while I code.
-- I love building tools that save hours of manual work.
+🎶 **Music**: Apple Music is my go-to music player! 🎧
 
 ---
 
 <p align="center">
-<i>"Automate the repetitive. Focus on the meaningful."</i>
+  <img src="https://img.shields.io/badge/Music-Now%20Playing-blue?style=for-the-badge&logo=applemusic&logoColor=white" alt="Now Playing" />
 </p>
